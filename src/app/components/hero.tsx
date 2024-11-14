@@ -9,7 +9,7 @@ export default function Hero() {
         <div className="flex flex-col items-center lg:items-start max-w-full lg:w-[550px]">
           <h2 className="text-4xl sm:text-6xl lg:text-8xl font-bold font-serif text-blue-800">Hi,</h2>
           <h2 className="text-4xl sm:text-6xl lg:text-8xl font-bold font-serif text-blue-800">
-            I'm <span className="text-orange-500">Diana</span> Fitria Wati
+            I am <span className="text-orange-500">Diana</span> Fitria Wati
           </h2>
           <p className="mt-4 text-base sm:text-lg text-black font-serif">Front-End Developer</p>
           <a href="#projects" className="mt-8 px-4 sm:px-6 py-2 sm:py-3 bg-blue-800 text-white rounded-lg shadow hover:bg-blue-700 font-serif">
