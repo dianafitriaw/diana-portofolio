@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "portofolio-ee985",
+    "staging": "portofolio-ee985"
+  },
+  "targets": {},
+  "etags": {}
+}
